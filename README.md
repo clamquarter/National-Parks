@@ -1,7 +1,7 @@
 # National Parks
 
 <h3>Summary</h3>
-National Parks is a project from my Thinkful Engineering Immersion Intro. A working deployment can be found <a href="https://clamquarter.github.io/thinkful-ei-national-parks/">here</a>. Students were tasked with:
+National Parks is a project from my Thinkful Engineering Immersion Intro. A working deployment can be found <a href="https://clamquarter.github.io/thinkful-ei-national-parks/">here</a>. Students were tasked with:<br><br>
 
 <ul>
 <li>Popluating a web app's data with API requests.</li>
