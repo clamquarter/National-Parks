@@ -16,7 +16,7 @@ function formatQueryParams(params) {
      
       $('#results-list').append(
         `<li><h3>${responseJson.data[i].name}</h3>
-        <a href=`${responseJson.data[i].url}`>Visit</a>
+        <a href={responseJson.data[i].url}>Visit</a>
         <p>${responseJson.data[i].addresses[0].line1}</p> <p>${responseJson.data[i].addresses[0].city}</p>
         <p> ${responseJson.data[i].addresses[0].stateCode}</p> 
         <p>${responseJson.data[i].description}</p>
